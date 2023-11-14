@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @skayaks
-- 👀 I’m interested in app and web development 
+- 👀 I’m interested in app. 
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
